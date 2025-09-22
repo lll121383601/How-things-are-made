@@ -6,6 +6,9 @@ If your smartphone or tablet supports photogrammetric scanning apps and has stab
 PS: If you're using Revopoint like I am, be sure to download the Revo Scan app on your phone in advance.
 ## Documentation 
 First, take the 3D scanner out of the box and assemble it as shown below.
+<p align="center">
+	<img src="./revopoint.png") alt="size limit image cant be show" width="500">
+</p>
 
 Then, open Revo scan and connect the phone to Revopoint pop2 with a two-in-one data cable. After seeing the scanner camera screen and point cloud data on the home page of the app, the connection is successful.
 Then find the matching dual-axis turntable in the accessory connection, and set the required turntable mode in the dual-axis turntable-advanced mode interface before exiting.The advanced mode I set up looks like this.
