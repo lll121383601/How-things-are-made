@@ -3,6 +3,7 @@
 ## Description
 The first task is to do a 3D scan. You can use your own device, to experiment with photogrammetry using mobile apps like "RealityScan" or "3DScanner App". Or try to use the Revopoint pop2, an infrared-depth-map handheld scanner.
 If your smartphone or tablet supports photogrammetric scanning apps and has stable internet connectivity, you can try "RealityScan" or "3D Scanner App". And remember to take multiple photos from all angles of your target object. Owing to my class experience with Revopoint Pop2 and the unstable network conditions while scanning objects, I used Revopoint paired with a dual-axis turntable to scan a bottle in 3D.
+
 PS: If you're using Revopoint like I am, be sure to download the Revo Scan app on your phone in advance.
 ## Documentation 
 First, take the 3D scanner out of the box and assemble it as shown below.
