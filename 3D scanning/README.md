@@ -16,7 +16,7 @@ First, take the 3D scanner and dual-axis turntable out of the box and assemble i
 Then, open Revo scan and connect the phone to Revopoint pop2 with a two-in-one data cable. After seeing the point cloud data on the home page of the app, the connection is successful.
 Then find the matching dual-axis turntable in the accessory connection, and set the required turntable mode in the dual-axis turntable-advanced mode interface.The advanced mode I set up looks like this.
 <p align="center">
-	<img src="./advanced mode.jpg") alt="size limit image cant be show" width="500">
+	<img src="./advanced mode.jpg") alt="size limit image cant be show" high="500">
 </p>
 Finally, point Revopoint pop2 at the object, click the dot on the right side of the home page to start scanning, and start the dual-axis turntable. The scanning will end after the turntable has rotated for at least one circle.
 
@@ -33,6 +33,6 @@ So we took the rope off and did a new scan and model, and finally we got a succe
 ## Output
 Here is a display of my scanning results (the STL file is in the 3D Scanning folder):
 <p align="center">
-	<img src="./1.png") alt="size limit image cant be show" width="500">
+	<img src="./1.png") alt="size limit image cant be show" high="500">
 </p>
 [bottle。stl](https://github.com/lll121383601/How-things-are-made/blob/main/3D%20scanning/bottle_20250921_162110_mesh.stl)
