@@ -6,9 +6,11 @@ If your smartphone or tablet supports photogrammetric scanning apps and has stab
 
 PS: If you're using Revopoint like I am, be sure to download the Revo Scan app on your phone in advance.
 ## Documentation 
-First, take the 3D scanner out of the box and assemble it as shown below.
+
+First, take the 3D scanner and dual-axis turntable out of the box and assemble it as shown below.
 <p align="center">
 	<img src="./revopoint.jpg") alt="size limit image cant be show" width="500">
+	<img src="./dual-axis turntable.jpg") alt="size limit image cant be show" width="500">
 </p>
 
 Then, open Revo scan and connect the phone to Revopoint pop2 with a two-in-one data cable. After seeing the point cloud data on the home page of the app, the connection is successful.
@@ -17,6 +19,17 @@ Then find the matching dual-axis turntable in the accessory connection, and set 
 	<img src="./advanced mode.jpg") alt="size limit image cant be show" width="500">
 </p>
 Finally, point Revopoint pop2 at the object, click the dot on the right side of the home page to start scanning, and start the dual-axis turntable. The scanning will end after the turntable has rotated for at least one circle.
+## Trial experience
+Initially, we attempted to scan the rope-equipped thermos bottle below. However, after multiple attempts, the images obtained all showed the same pattern: the actual rope was never fully captured as a single structure.
+<p align="center">
+	<img src="./the thermos cup.jpg") alt="size limit image cant be show" width="500">
+	<img src="./failure case.jpg") alt="size limit image cant be show" width="500">
+</p>
+
+PS:This may be because the bottle or rope was not stationary relative to the rotating platform during rotation, resulting in unreliable scanning. 
+
+So we took the rope off and did a new scan and model, and finally we got a successful scan.
+## Output
 Here is a display of my scanning results (the STL file is in the 3D Scanning folder):
 <p align="center">
 	<img src="./1.png") alt="size limit image cant be show" width="500">
