@@ -24,7 +24,7 @@ Finally, point Revopoint pop2 at the object, click the dot on the right side of 
 Initially, we attempted to scan the rope-equipped thermos bottle below. However, after multiple attempts, the images obtained all showed the same pattern: the actual rope was never fully captured as a single structure.
 <p align="center">
 	<img src="./the thermos cup.jpg") alt="size limit image cant be show" width="500">
-	<img src="./failure case.jpg") alt="size limit image cant be show" width="500">
+	<img src="./failure case.png") alt="size limit image cant be show" width="500">
 </p>
 
 PS:This may be because the bottle or rope was not stationary relative to the rotating platform during rotation, resulting in unreliable scanning. 
@@ -35,4 +35,4 @@ Here is a display of my scanning results (the STL file is in the 3D Scanning fol
 <p align="center">
 	<img src="./1.png") alt="size limit image cant be show" width="500">
 </p>
-[bottle。stl](https://github.com/user-attachments/files/22481207/1.zip)
+[bottle。stl]([https://github.com/user-attachments/files/22481207/1.zip](https://github.com/lll121383601/How-things-are-made/blob/main/3D%20scanning/bottle_20250921_162110_mesh.stl))
