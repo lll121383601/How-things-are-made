@@ -6,12 +6,12 @@ The second week's task was to 3D print the model scanned last week.
 
 First, we use Autodesk meshmixer to process the 3D model obtained from the previous scan.
 <p align="center">
-	<img src="./1.png") alt="size limit image cant be show" width="500">
+	<img src="./1.png") alt="size limit image cant be show" high="500">
 </p>
 
 The obtained 3d model file is then imported into the 3D printer.
 <p align="center">
-	<img src="./2.png") alt="size limit image cant be show" width="500">
+	<img src="./2.png") alt="size limit image cant be show" high="500">
 </p>
 
 In general, press the start button and wait quietly for the printer to complete.
