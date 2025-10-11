@@ -19,6 +19,7 @@ Then find the matching dual-axis turntable in the accessory connection, and set 
 	<img src="./advanced mode.jpg") alt="size limit image cant be show" width="500">
 </p>
 Finally, point Revopoint pop2 at the object, click the dot on the right side of the home page to start scanning, and start the dual-axis turntable. The scanning will end after the turntable has rotated for at least one circle.
+
 ## Trial experience
 Initially, we attempted to scan the rope-equipped thermos bottle below. However, after multiple attempts, the images obtained all showed the same pattern: the actual rope was never fully captured as a single structure.
 <p align="center">
@@ -34,3 +35,4 @@ Here is a display of my scanning results (the STL file is in the 3D Scanning fol
 <p align="center">
 	<img src="./1.png") alt="size limit image cant be show" width="500">
 </p>
+[bottle。stl](https://github.com/user-attachments/files/22481207/1.zip)
