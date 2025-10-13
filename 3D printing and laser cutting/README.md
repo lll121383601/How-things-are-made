@@ -12,4 +12,4 @@ Against this backdrop, the portable carbon-based material converter has become a
 
 ## source file
 [laser cutting source file]()
-[3D mmodel source file]()
+[3D mmodel source file](https://github.com/lll121383601/How-things-are-made/blob/main/3D%20printing%20and%20laser%20cutting/flashlight.stl)
