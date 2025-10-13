@@ -11,5 +11,9 @@ Against this backdrop, the portable carbon-based material converter has become a
 </p>
 
 ## source file
-[laser cutting source file]()
+<p align="center">
+	<img src="./laser cutting.png") alt="size limit image cant be show" width="500">
+</p>
+[laser cutting source file](https://github.com/lll121383601/How-things-are-made/blob/main/3D%20printing%20and%20laser%20cutting/cutting%20drawing.dwg)
+
 [3D mmodel source file](https://github.com/lll121383601/How-things-are-made/blob/main/3D%20printing%20and%20laser%20cutting/flashlight.stl)
