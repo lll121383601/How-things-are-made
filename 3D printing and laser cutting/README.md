@@ -54,10 +54,13 @@ PS: If you don’t see the image initially, just left-click once with the mouse�
 Then press the key to select all parts of the image. Click the red square below to standardize all parts (since both my boards need cutting). Double-click the editing area on the right to modify the corresponding parameters. For cutting 2mm wood on my machine, the parameters are max power 98, min power 95, and speed 20. After modifying, select all parts of the image, left-click "Tools", then click "Merge Adjacent Lines", "Delete Duplicate Lines" and "Optimize Cutting Path". Then select all parts of the image and click "Load". When your file appears on the cutter’s interface, the laser cutter has "received your command".
  
 Next, press "Start" and wait quietly for it to finish.
-<p align="center">
-	<img src="./product.jpg") alt="size limit image cant be show" width="500">
-</p>
-The final step is to assemble all the cut parts together.
+
 <p align="center">
 	<img src="./cutting.jpg") alt="size limit image cant be show" width="500">
+</p>
+
+The final step is to assemble all the cut parts together.
+
+<p align="center">
+	<img src="./product.jpg") alt="size limit image cant be show" width="500">
 </p>
