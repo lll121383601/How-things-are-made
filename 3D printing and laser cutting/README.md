@@ -11,7 +11,7 @@ Against this backdrop, the portable carbon-based material converter has become a
 </p>
 
 ## Source file
-[laser cutting source file](https://github.com/lll121383601/How-things-are-made/blob/main/3D%20printing%20and%20laser%20cutting/cutting%20drawing.dwg)
+[laser cutting source file] (https://github.com/lll121383601/How-things-are-made/blob/main/3D%20printing%20and%20laser%20cutting/cutting%20drawing.dwg)
 
 [3D model source file] (https://github.com/lll121383601/How-things-are-made/blob/main/3D%20printing%20and%20laser%20cutting/flashlight.stl)
 
@@ -62,7 +62,7 @@ Next, press Ctrl+A to select all images, then click the red box below to unify a
 </p>   
 Double-click the red-marked area on the right to adjust parameters. For example, if I cut 2mm wood with my device, set the parameters as: maximum power 98, minimum power 95, speed 20.
 <p align="center">
-	<img src="./7.png") alt="size limit image cant be show" width="500">
+	<img src="./7.jpg") alt="size limit image cant be show" width="500">
 	<img src="./8.jpg") alt="size limit image cant be show" width="500">
 </p>   
 After editing, press Ctrl A to select all areas of the image, then click the left mouse button on the "Tools" menu and select "Delete Overlapping Lines", "Merge Adjacent Lines", and "Optimize Sorting" in sequence.
