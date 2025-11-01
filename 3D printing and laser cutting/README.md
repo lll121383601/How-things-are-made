@@ -47,17 +47,40 @@ Ta-da! This is my super-simplified flashlight!
 </p>  
 
 Next, we’ll laser cut a wooden board (for the Arduino mounting plate) and an acrylic board (for the Arduino protection plate). 
-First, press the computer’s power button to turn it on. Then open the USB drive, drag the drawn DXF file to the desktop. Right-click the file and select to open it with the Lasercut software (the icon marked by the red circle).
- 
-PS: If you don’t see the image initially, just left-click once with the mouse—it usually appears then.
- 
-Then press the key to select all parts of the image. Click the red square below to standardize all parts (since both my boards need cutting). Double-click the editing area on the right to modify the corresponding parameters. For cutting 2mm wood on my machine, the parameters are max power 98, min power 95, and speed 20. After modifying, select all parts of the image, left-click "Tools", then click "Merge Adjacent Lines", "Delete Duplicate Lines" and "Optimize Cutting Path". Then select all parts of the image and click "Load". When your file appears on the cutter’s interface, the laser cutter has "received your command".
- 
-Next, press "Start" and wait quietly for it to finish.
+First, press the computer’s power button to turn it on. Then open the USB drive, drag the drawn DXF file to the desktop. Right-click the file and select to open it with the LaserCAD software (the icon marked by the red circle).
 <p align="center">
-	<img src="./product.jpg") alt="size limit image cant be show" width="500">
+	<img src="./4.jpg") alt="size limit image cant be show" width="500">
+</p>   
+PS: If you don’t see the image initially, just left-click once with the mouse—it usually appears then.
+<p align="center">
+	<img src="./5.jpg") alt="size limit image cant be show" width="500">
+	<img src="./5.png") alt="size limit image cant be show" width="500">
+</p>   
+Next, press Ctrl+A to select all images, then click the red box below to unify all line segments into red, as both panels in my design require cutting.
+<p align="center">
+	<img src="./6.jpg") alt="size limit image cant be show" width="500">
+</p>   
+Double-click the red-marked area on the right to adjust parameters. For example, if I cut 2mm wood with my device, set the parameters as: maximum power 98, minimum power 95, speed 20.
+<p align="center">
+	<img src="./7.png") alt="size limit image cant be show" width="500">
+	<img src="./8.jpg") alt="size limit image cant be show" width="500">
+</p>   
+After editing, press Ctrl A to select all areas of the image, then click the left mouse button on the "Tools" menu and select "Delete Overlapping Lines", "Merge Adjacent Lines", and "Optimize Sorting" in sequence.
+<p align="center">
+	<img src="./9.jpg") alt="size limit image cant be show" width="500">
+	<img src="./10.jpg") alt="size limit image cant be show" width="500">
+	<img src="./11.jpg") alt="size limit image cant be show" width="500">
+</p>   
+Select the image again and click the Load button.
+<p align="center">
+	<img src="./13.jpg") alt="size limit image cant be show" width="500">
+</p>
+When the file appears on the cutting machine interface, the laser cutting machine has "received your command". Next, press "Start" and wait quietly for it to finish.
+<p align="center">
+	<img src="./14.jpg") alt="size limit image cant be show" width="500">
+	<img src="./cutting.jpg") alt="size limit image cant be show" width="500">
 </p>
 The final step is to assemble all the cut parts together.
 <p align="center">
-	<img src="./cutting.jpg") alt="size limit image cant be show" width="500">
+	<img src="./product.jpg") alt="size limit image cant be show" width="500">
 </p>
