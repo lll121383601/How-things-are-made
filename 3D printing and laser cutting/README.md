@@ -18,7 +18,7 @@ Against this backdrop, the portable carbon-based material converter has become a
 ## Manufacturing process
 To create something using 3D printing and laser cutting, you first need an idea💡, and then turn it into a design plan with specific data—like this one.
 <p align="center">
-	<img src="./draft.jpg") alt="size limit image cant be show" high="500">
+	<img src="./draft.jpg") alt="size limit image cant be show" width="500">
 </p>
 Next, based on your design plan, distinguish the parts suitable for 3D printing from those for laser cutting.
 You can draw laser cutting diagrams in your preferred software too, but it must support exporting DXF files. I use AutoCAD.
