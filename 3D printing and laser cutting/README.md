@@ -54,7 +54,7 @@ First, press the computer’s power button to turn it on. Then open the USB driv
 PS: If you don’t see the image initially, just left-click once with the mouse—it usually appears then.
 <p align="center">
 	<img src="./5.jpg") alt="size limit image cant be show" width="500">
-	<img src="./5.png") alt="size limit image cant be show" width="500">
+	<img src="./12.jpg") alt="size limit image cant be show" width="500">
 </p>   
 Next, press Ctrl+A to select all images, then click the red box below to unify all line segments into red, as both panels in my design require cutting.
 <p align="center">
@@ -62,7 +62,7 @@ Next, press Ctrl+A to select all images, then click the red box below to unify a
 </p>   
 Double-click the red-marked area on the right to adjust parameters. For example, if I cut 2mm wood with my device, set the parameters as: maximum power 98, minimum power 95, speed 20.
 <p align="center">
-	<img src="./7.jpg") alt="size limit image cant be show" width="500">
+	<img src="./7.png") alt="size limit image cant be show" width="500">
 	<img src="./8.jpg") alt="size limit image cant be show" width="500">
 </p>   
 After editing, press Ctrl A to select all areas of the image, then click the left mouse button on the "Tools" menu and select "Delete Overlapping Lines", "Merge Adjacent Lines", and "Optimize Sorting" in sequence.
