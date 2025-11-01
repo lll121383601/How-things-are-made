@@ -62,8 +62,8 @@ Next, press Ctrl+A to select all images, then click the red box below to unify a
 </p>   
 Double-click the red-marked area on the right to adjust parameters. For example, if I cut 2mm wood with my device, set the parameters as: maximum power 98, minimum power 95, speed 20.
 <p align="center">
-	<img src="./7.png") alt="size limit image cant be show" width="500">
-	<img src="./8.jpg") alt="size limit image cant be show" width="500">
+	<img src="./7.png") alt="size limit image cant be show" high="500">
+	<img src="./8.jpg") alt="size limit image cant be show" high="500">
 </p>   
 After editing, press Ctrl A to select all areas of the image, then click the left mouse button on the "Tools" menu and select "Delete Overlapping Lines", "Merge Adjacent Lines", and "Optimize Sorting" in sequence.
 <p align="center">
@@ -77,7 +77,7 @@ Select the image again and click the Load button.
 </p>
 When the file appears on the cutting machine interface, the laser cutting machine has "received your command". Next, press "Start" and wait quietly for it to finish.
 <p align="center">
-	<img src="./14.jpg") alt="size limit image cant be show" high="500">
+	<img src="./14.jpg") alt="size limit image cant be show" width="500">
 	<img src="./cutting.jpg") alt="size limit image cant be show" width="500">
 </p>
 The final step is to assemble all the cut parts together.
